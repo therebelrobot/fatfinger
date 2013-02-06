@@ -71,7 +71,6 @@ $.fn.keyBinder= function(style, modifier, triggerOrDelay, functionToRun, functio
                 var modifierArray = modifier.split("+");
             }
 
-
             if (modifierArray && modifierPresent){ /* "ctrl+alt" && "a" */
                 modifier = modifier.split('+');
                 var modPressed1 = false;
