@@ -4,6 +4,7 @@ jquery.keyBinder - version 1.3
 a jQuery plugin - binds keyboard events to functions (hotkeys, sequences)
 
 [homepage][]
+
 [developer][]
  [homepage]: http://therebelrobot.com/keyBinder/  "Visit Homepage"
  [developer]: http://therebelrobot.com/  "Developer Site"
