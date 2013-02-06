@@ -10,11 +10,11 @@ a jQuery plugin - binds keyboard events to functions (hotkeys, sequences)
 
 Features:
 ---------
-	- Integrated jQuery functionality
-	- Single key mapping
-	- Dual/Triple key mapping
-	- Sequence Mapping
-	- Callback functions
+- Integrated jQuery functionality
+- Single key mapping
+- Dual/Triple key mapping
+- Sequence Mapping
+- Callback functions
 
 
 ### Valid key definitions:
