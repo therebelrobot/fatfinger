@@ -59,27 +59,27 @@ Features:
 		<td>up</td>
 		<td>right</td>
 		<td>down</td>
-		<td>0-9 <small>top of keyboard</small></td>
+		<td>0-9 -- top of keyboard</td>
 	</tr>
 	<tr>
 		<td>a-z</td>
 		<td>select</td>
-		<td>num0-num9 <small>right of keyboard</small></td>
-		<td>add <small>right of keyboard</small></td>
-		<td>sub <small>right of keyboard</small></td>
+		<td>num0-num9 -- right of keyboard</td>
+		<td>add -- right of keyboard</td>
+		<td>sub -- right of keyboard</td>
 	</tr>
 	<tr>
-		<td>mult <small>right of keyboard</small></td>
-		<td>div <small>right of keyboard</small></td>
-		<td>decPoint <small>right of keyboard</small></td>
+		<td>mult -- right of keyboard</td>
+		<td>div -- right of keyboard</td>
+		<td>decPoint -- right of keyboard</td>
 		<td>f1-f12</td>
-		<td>backTick <small>"`"</small></td>
+		<td>backTick -- "`"</td>
 	</tr>
 	<tr>
 		<td>fSlash</td>
 		<td>bSlash</td>
-		<td>openBracket <small>"["</small></td>
-		<td>closeBracket <small>"]"</small></td>
+		<td>openBracket -- "["</td>
+		<td>closeBracket -- "]"</td>
 		<td>equal</td>
 	</tr>
 	<tr>
