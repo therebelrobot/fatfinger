@@ -1,3 +1,10 @@
+# Fatfinger
+
+Work in progress. This is an old jQuery plugin of mine that I'm converting to native and browserify standards. 
+
+Following is the original readme:
+
+
 jquery.keyBinder - version 1.3
 ==============================
 
